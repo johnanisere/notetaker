@@ -1,6 +1,7 @@
 import React from "react";
-import Form from "../blocks/Form";
+
 import Select from "./Select";
+import Form from "../blocks/Form";
 
 const Group = ({ title, value, name, onChange, type, list = [] }) => (
   <Form.Label>

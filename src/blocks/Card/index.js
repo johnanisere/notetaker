@@ -2,8 +2,9 @@ import Body from "./Body";
 import Title from "./Title";
 import Header from "./Header";
 import Button from "./Button";
-import Footer from "./Footer";
 import styled, { keyframes } from "styled-components";
+
+import Footer from "./Footer";
 import Article from "../../elements/Article";
 
 const fadeIn = keyframes`

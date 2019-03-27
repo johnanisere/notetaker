@@ -1,10 +1,11 @@
 import React from "react";
-import { colors } from "./constants";
+
 import Form from "../blocks/Form";
+import { colors } from "./constants";
 import Container from "../blocks/Container";
 import InputGroup from "../components/InputGroup";
 
-const App = ({ note, color, onSave, onHandleChange }) => (
+const Entry = ({ note, color, onSave, onHandleChange }) => (
   <Container center>
     <InputGroup
       type="text"
@@ -25,4 +26,4 @@ const App = ({ note, color, onSave, onHandleChange }) => (
   </Container>
 );
 
-export default App;
+export default Entry;

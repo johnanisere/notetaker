@@ -1,4 +1,5 @@
 import React from "react";
+
 import Form from "../blocks/Form";
 
 const Select = ({ list = [], value, onChange, name }) => (

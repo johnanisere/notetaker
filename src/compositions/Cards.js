@@ -1,8 +1,9 @@
 import React from "react";
-import Container from "../blocks/Container";
-import Card from "../components/Card";
 
-const App = ({ notes, onEdit, onDelete }) => (
+import Card from "../components/Card";
+import Container from "../blocks/Container";
+
+const Cards = ({ notes, onEdit, onDelete }) => (
   <Container wrap="true">
     {notes.map(({ note, color, date, number }, key) => (
       <Card
@@ -18,4 +19,4 @@ const App = ({ notes, onEdit, onDelete }) => (
   </Container>
 );
 
-export default App;
+export default Cards;

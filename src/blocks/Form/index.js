@@ -1,8 +1,9 @@
-import Input from "./Input";
-import Label from "../../elements/Label";
 import styled from "styled-components";
+
+import Input from "./Input";
 import Select from "./Select";
 import Button from "./Button";
+import Label from "../../elements/Label";
 
 const Form = styled.form``;
 
