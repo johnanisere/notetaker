@@ -72,6 +72,7 @@ class App extends Component {
 
   render() {
     const { notes, note, color } = this.state;
+
     return (
       <Fragment>
         <Section>
