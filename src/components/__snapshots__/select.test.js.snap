@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputGroup component renders 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Select />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <option
+          value=""
+        >
+          Select
+        </option>,
+        Array [],
+      ],
+      "name": undefined,
+      "onChange": undefined,
+      "value": undefined,
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Select",
+          "value": "",
+        },
+        "ref": null,
+        "rendered": "Select",
+        "type": "option",
+      },
+    ],
+    "type": Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bxivhb",
+        "isStatic": true,
+        "rules": Array [
+          "
+  width: 100%;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #d7d7e0;
+  border: 1px solid #d4d4d4;
+  padding: 12px;
+  background-image: url(https://buzzhostingservices.com/images/drop-down-arrow-7.png);
+  background-size: auto 25px;
+  background-color: white;
+  background-position: calc(100% - 10px) center;
+  background-repeat: no-repeat;
+  outline: none;
+  transition: outline 0.2s ease-in-out 0s;
+",
+          "
+  padding: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: rgba(0, 0, 0, 0.03);
+  appearance: none;
+  border: 1px solid #d4d4d4;
+  padding: 12px;
+  box-sizing: border-box;
+  margin-top: 8px;
+  border-radius: 4px;
+",
+        ],
+      },
+      "displayName": "Styled(styled.select)",
+      "foldedComponentIds": Array [
+        "sc-htpNat",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-bxivhb",
+      "target": "select",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    },
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <option
+            value=""
+          >
+            Select
+          </option>,
+          Array [],
+        ],
+        "name": undefined,
+        "onChange": undefined,
+        "value": undefined,
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Select",
+            "value": "",
+          },
+          "ref": null,
+          "rendered": "Select",
+          "type": "option",
+        },
+      ],
+      "type": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bxivhb",
+          "isStatic": true,
+          "rules": Array [
+            "
+  width: 100%;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px 0 #d7d7e0;
+  border: 1px solid #d4d4d4;
+  padding: 12px;
+  background-image: url(https://buzzhostingservices.com/images/drop-down-arrow-7.png);
+  background-size: auto 25px;
+  background-color: white;
+  background-position: calc(100% - 10px) center;
+  background-repeat: no-repeat;
+  outline: none;
+  transition: outline 0.2s ease-in-out 0s;
+",
+            "
+  padding: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: rgba(0, 0, 0, 0.03);
+  appearance: none;
+  border: 1px solid #d4d4d4;
+  padding: 12px;
+  box-sizing: border-box;
+  margin-top: 8px;
+  border-radius: 4px;
+",
+          ],
+        },
+        "displayName": "Styled(styled.select)",
+        "foldedComponentIds": Array [
+          "sc-htpNat",
+        ],
+        "render": [Function],
+        "styledComponentId": "sc-bxivhb",
+        "target": "select",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;

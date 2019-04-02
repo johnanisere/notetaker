@@ -1,0 +1,1572 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component renders 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <_default />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <ForwardRef>
+          <ForwardRef
+            className="header-title"
+          >
+            Note 
+          </ForwardRef>
+          <span>
+            <ForwardRef>
+              <FontAwesomeIcon
+                border={false}
+                className=""
+                fixedWidth={false}
+                flip={null}
+                icon="pen"
+                inverse={false}
+                listItem={false}
+                mask={null}
+                pull={null}
+                pulse={false}
+                rotation={null}
+                size={null}
+                spin={false}
+                symbol={false}
+                title=""
+                transform={null}
+              />
+            </ForwardRef>
+            <ForwardRef>
+              <FontAwesomeIcon
+                border={false}
+                className=""
+                fixedWidth={false}
+                flip={null}
+                icon="trash"
+                inverse={false}
+                listItem={false}
+                mask={null}
+                pull={null}
+                pulse={false}
+                rotation={null}
+                size={null}
+                spin={false}
+                symbol={false}
+                title=""
+                transform={null}
+              />
+            </ForwardRef>
+          </span>
+        </ForwardRef>,
+        <ForwardRef />,
+        <ForwardRef />,
+      ],
+      "color": undefined,
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": Array [
+            <ForwardRef
+              className="header-title"
+            >
+              Note 
+            </ForwardRef>,
+            <span>
+              <ForwardRef>
+                <FontAwesomeIcon
+                  border={false}
+                  className=""
+                  fixedWidth={false}
+                  flip={null}
+                  icon="pen"
+                  inverse={false}
+                  listItem={false}
+                  mask={null}
+                  pull={null}
+                  pulse={false}
+                  rotation={null}
+                  size={null}
+                  spin={false}
+                  symbol={false}
+                  title=""
+                  transform={null}
+                />
+              </ForwardRef>
+              <ForwardRef>
+                <FontAwesomeIcon
+                  border={false}
+                  className=""
+                  fixedWidth={false}
+                  flip={null}
+                  icon="trash"
+                  inverse={false}
+                  listItem={false}
+                  mask={null}
+                  pull={null}
+                  pulse={false}
+                  rotation={null}
+                  size={null}
+                  spin={false}
+                  symbol={false}
+                  title=""
+                  transform={null}
+                />
+              </ForwardRef>
+            </span>,
+          ],
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "children": Array [
+                "Note ",
+                undefined,
+              ],
+              "className": "header-title",
+              "color": undefined,
+            },
+            "ref": null,
+            "rendered": Array [
+              "Note ",
+              undefined,
+            ],
+            "type": Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "sc-htpNat",
+                "isStatic": false,
+                "rules": Array [
+                  "
+  color: ",
+                  [Function],
+                  ";
+",
+                ],
+              },
+              "displayName": "styled.span",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "sc-htpNat",
+              "target": "span",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            },
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <ForwardRef>
+                  <FontAwesomeIcon
+                    border={false}
+                    className=""
+                    fixedWidth={false}
+                    flip={null}
+                    icon="pen"
+                    inverse={false}
+                    listItem={false}
+                    mask={null}
+                    pull={null}
+                    pulse={false}
+                    rotation={null}
+                    size={null}
+                    spin={false}
+                    symbol={false}
+                    title=""
+                    transform={null}
+                  />
+                </ForwardRef>,
+                <ForwardRef>
+                  <FontAwesomeIcon
+                    border={false}
+                    className=""
+                    fixedWidth={false}
+                    flip={null}
+                    icon="trash"
+                    inverse={false}
+                    listItem={false}
+                    mask={null}
+                    pull={null}
+                    pulse={false}
+                    rotation={null}
+                    size={null}
+                    spin={false}
+                    symbol={false}
+                    title=""
+                    transform={null}
+                  />
+                </ForwardRef>,
+              ],
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": <FontAwesomeIcon
+                    border={false}
+                    className=""
+                    fixedWidth={false}
+                    flip={null}
+                    icon="pen"
+                    inverse={false}
+                    listItem={false}
+                    mask={null}
+                    pull={null}
+                    pulse={false}
+                    rotation={null}
+                    size={null}
+                    spin={false}
+                    symbol={false}
+                    title=""
+                    transform={null}
+                  />,
+                  "onClick": undefined,
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "border": false,
+                    "className": "",
+                    "fixedWidth": false,
+                    "flip": null,
+                    "icon": "pen",
+                    "inverse": false,
+                    "listItem": false,
+                    "mask": null,
+                    "pull": null,
+                    "pulse": false,
+                    "rotation": null,
+                    "size": null,
+                    "spin": false,
+                    "symbol": false,
+                    "title": "",
+                    "transform": null,
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                "type": Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "rules": Array [
+                      "
+  padding: 0px 12px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin-left: 6px;
+  font-size: 18px;
+  padding: 5px 8px;
+  cursor: pointer;
+  color: #888888;
+  transition: all 0.1s ease-in-out;
+  transform: scale(0.98);
+  &:hover {
+    box-shadow: 1px 1px 2px 3px #ffffff;
+    transform: scale(1);
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.button)",
+                  "foldedComponentIds": Array [
+                    "sc-EHOje",
+                  ],
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "button",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                },
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": <FontAwesomeIcon
+                    border={false}
+                    className=""
+                    fixedWidth={false}
+                    flip={null}
+                    icon="trash"
+                    inverse={false}
+                    listItem={false}
+                    mask={null}
+                    pull={null}
+                    pulse={false}
+                    rotation={null}
+                    size={null}
+                    spin={false}
+                    symbol={false}
+                    title=""
+                    transform={null}
+                  />,
+                  "onClick": undefined,
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "border": false,
+                    "className": "",
+                    "fixedWidth": false,
+                    "flip": null,
+                    "icon": "trash",
+                    "inverse": false,
+                    "listItem": false,
+                    "mask": null,
+                    "pull": null,
+                    "pulse": false,
+                    "rotation": null,
+                    "size": null,
+                    "spin": false,
+                    "symbol": false,
+                    "title": "",
+                    "transform": null,
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                "type": Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "rules": Array [
+                      "
+  padding: 0px 12px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin-left: 6px;
+  font-size: 18px;
+  padding: 5px 8px;
+  cursor: pointer;
+  color: #888888;
+  transition: all 0.1s ease-in-out;
+  transform: scale(0.98);
+  &:hover {
+    box-shadow: 1px 1px 2px 3px #ffffff;
+    transform: scale(1);
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.button)",
+                  "foldedComponentIds": Array [
+                    "sc-EHOje",
+                  ],
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "button",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                },
+              },
+            ],
+            "type": "span",
+          },
+        ],
+        "type": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-ifAKCX",
+            "isStatic": true,
+            "rules": Array [
+              "
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+",
+              "
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 12px;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 12px;
+  button {
+    visibility: hidden;
+  }
+  &:hover {
+    button {
+      visibility: visible;
+    }
+  }
+",
+            ],
+          },
+          "displayName": "Styled(styled.h2)",
+          "foldedComponentIds": Array [
+            "sc-bxivhb",
+          ],
+          "render": [Function],
+          "styledComponentId": "sc-ifAKCX",
+          "target": "h2",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        },
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bwzfXH",
+            "isStatic": true,
+            "rules": Array [
+              "
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+",
+              "
+  padding: 4px 12px;
+  margin: 0;
+  padding-top: 0;
+  overflow-y: scroll;
+  font-size: 15px;
+  font-weight: 500;
+  max-width: calc(100% - 15px);
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  height: 84px;
+  line-height: 26px;
+  color: #888888;
+",
+            ],
+          },
+          "displayName": "Styled(styled.p)",
+          "foldedComponentIds": Array [
+            "sc-bdVaJa",
+          ],
+          "render": [Function],
+          "styledComponentId": "sc-bwzfXH",
+          "target": "p",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        },
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htoDjs",
+            "isStatic": true,
+            "rules": Array [
+              "
+  color: #00bafa;
+  text-align: left;
+  width: 100%;
+",
+              "
+  padding: 11px 12px;
+  box-sizing: border-box;
+  font-weight: 400;
+  font-size: 13px;
+  border-top: 1px solid #ffffff;
+  box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.1);
+  color: #888888;
+",
+            ],
+          },
+          "displayName": "Styled(styled.footer)",
+          "foldedComponentIds": Array [
+            "sc-gzVnrw",
+          ],
+          "render": [Function],
+          "styledComponentId": "sc-htoDjs",
+          "target": "footer",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        },
+      },
+    ],
+    "type": Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "Body": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bwzfXH",
+          "isStatic": true,
+          "rules": Array [
+            "
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+",
+            "
+  padding: 4px 12px;
+  margin: 0;
+  padding-top: 0;
+  overflow-y: scroll;
+  font-size: 15px;
+  font-weight: 500;
+  max-width: calc(100% - 15px);
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  height: 84px;
+  line-height: 26px;
+  color: #888888;
+",
+          ],
+        },
+        "displayName": "Styled(styled.p)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
+        "render": [Function],
+        "styledComponentId": "sc-bwzfXH",
+        "target": "p",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+      "Button": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "rules": Array [
+            "
+  padding: 0px 12px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin-left: 6px;
+  font-size: 18px;
+  padding: 5px 8px;
+  cursor: pointer;
+  color: #888888;
+  transition: all 0.1s ease-in-out;
+  transform: scale(0.98);
+  &:hover {
+    box-shadow: 1px 1px 2px 3px #ffffff;
+    transform: scale(1);
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.button)",
+        "foldedComponentIds": Array [
+          "sc-EHOje",
+        ],
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "button",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+      "Footer": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-htoDjs",
+          "isStatic": true,
+          "rules": Array [
+            "
+  color: #00bafa;
+  text-align: left;
+  width: 100%;
+",
+            "
+  padding: 11px 12px;
+  box-sizing: border-box;
+  font-weight: 400;
+  font-size: 13px;
+  border-top: 1px solid #ffffff;
+  box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.1);
+  color: #888888;
+",
+          ],
+        },
+        "displayName": "Styled(styled.footer)",
+        "foldedComponentIds": Array [
+          "sc-gzVnrw",
+        ],
+        "render": [Function],
+        "styledComponentId": "sc-htoDjs",
+        "target": "footer",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+      "Header": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-ifAKCX",
+          "isStatic": true,
+          "rules": Array [
+            "
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+",
+            "
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 12px;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 12px;
+  button {
+    visibility: hidden;
+  }
+  &:hover {
+    button {
+      visibility: visible;
+    }
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.h2)",
+        "foldedComponentIds": Array [
+          "sc-bxivhb",
+        ],
+        "render": [Function],
+        "styledComponentId": "sc-ifAKCX",
+        "target": "h2",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+      "Title": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-htpNat",
+          "isStatic": false,
+          "rules": Array [
+            "
+  color: ",
+            [Function],
+            ";
+",
+          ],
+        },
+        "displayName": "styled.span",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "sc-htpNat",
+        "target": "span",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-iwsKbI",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  max-width: 1270px;
+  padding: 20px 0;
+  background-color: white;
+",
+          "
+  border-left: 8px solid ",
+          [Function],
+          ";
+  overflow: hidden;
+  max-width: 399px;
+  height: 180px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 8px 0.2px #d7d7e0;
+  border-radius: 4px;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  animation: ",
+          Keyframes {
+            "id": "sc-keyframes-dWMqQT",
+            "inject": [Function],
+            "name": "dWMqQT",
+            "rules": Array [
+              "@-webkit-keyframes dWMqQT{from{opacity:0;}to{opacity:1;}}",
+              "@keyframes dWMqQT{from{opacity:0;}to{opacity:1;}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.2s linear;
+",
+        ],
+      },
+      "displayName": "Styled(styled.article)",
+      "foldedComponentIds": Array [
+        "sc-dnqmqq",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-iwsKbI",
+      "target": "article",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    },
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <ForwardRef>
+            <ForwardRef
+              className="header-title"
+            >
+              Note 
+            </ForwardRef>
+            <span>
+              <ForwardRef>
+                <FontAwesomeIcon
+                  border={false}
+                  className=""
+                  fixedWidth={false}
+                  flip={null}
+                  icon="pen"
+                  inverse={false}
+                  listItem={false}
+                  mask={null}
+                  pull={null}
+                  pulse={false}
+                  rotation={null}
+                  size={null}
+                  spin={false}
+                  symbol={false}
+                  title=""
+                  transform={null}
+                />
+              </ForwardRef>
+              <ForwardRef>
+                <FontAwesomeIcon
+                  border={false}
+                  className=""
+                  fixedWidth={false}
+                  flip={null}
+                  icon="trash"
+                  inverse={false}
+                  listItem={false}
+                  mask={null}
+                  pull={null}
+                  pulse={false}
+                  rotation={null}
+                  size={null}
+                  spin={false}
+                  symbol={false}
+                  title=""
+                  transform={null}
+                />
+              </ForwardRef>
+            </span>
+          </ForwardRef>,
+          <ForwardRef />,
+          <ForwardRef />,
+        ],
+        "color": undefined,
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": Array [
+              <ForwardRef
+                className="header-title"
+              >
+                Note 
+              </ForwardRef>,
+              <span>
+                <ForwardRef>
+                  <FontAwesomeIcon
+                    border={false}
+                    className=""
+                    fixedWidth={false}
+                    flip={null}
+                    icon="pen"
+                    inverse={false}
+                    listItem={false}
+                    mask={null}
+                    pull={null}
+                    pulse={false}
+                    rotation={null}
+                    size={null}
+                    spin={false}
+                    symbol={false}
+                    title=""
+                    transform={null}
+                  />
+                </ForwardRef>
+                <ForwardRef>
+                  <FontAwesomeIcon
+                    border={false}
+                    className=""
+                    fixedWidth={false}
+                    flip={null}
+                    icon="trash"
+                    inverse={false}
+                    listItem={false}
+                    mask={null}
+                    pull={null}
+                    pulse={false}
+                    rotation={null}
+                    size={null}
+                    spin={false}
+                    symbol={false}
+                    title=""
+                    transform={null}
+                  />
+                </ForwardRef>
+              </span>,
+            ],
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": Array [
+                  "Note ",
+                  undefined,
+                ],
+                "className": "header-title",
+                "color": undefined,
+              },
+              "ref": null,
+              "rendered": Array [
+                "Note ",
+                undefined,
+              ],
+              "type": Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-htpNat",
+                  "isStatic": false,
+                  "rules": Array [
+                    "
+  color: ",
+                    [Function],
+                    ";
+",
+                  ],
+                },
+                "displayName": "styled.span",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-htpNat",
+                "target": "span",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              },
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <ForwardRef>
+                    <FontAwesomeIcon
+                      border={false}
+                      className=""
+                      fixedWidth={false}
+                      flip={null}
+                      icon="pen"
+                      inverse={false}
+                      listItem={false}
+                      mask={null}
+                      pull={null}
+                      pulse={false}
+                      rotation={null}
+                      size={null}
+                      spin={false}
+                      symbol={false}
+                      title=""
+                      transform={null}
+                    />
+                  </ForwardRef>,
+                  <ForwardRef>
+                    <FontAwesomeIcon
+                      border={false}
+                      className=""
+                      fixedWidth={false}
+                      flip={null}
+                      icon="trash"
+                      inverse={false}
+                      listItem={false}
+                      mask={null}
+                      pull={null}
+                      pulse={false}
+                      rotation={null}
+                      size={null}
+                      spin={false}
+                      symbol={false}
+                      title=""
+                      transform={null}
+                    />
+                  </ForwardRef>,
+                ],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "children": <FontAwesomeIcon
+                      border={false}
+                      className=""
+                      fixedWidth={false}
+                      flip={null}
+                      icon="pen"
+                      inverse={false}
+                      listItem={false}
+                      mask={null}
+                      pull={null}
+                      pulse={false}
+                      rotation={null}
+                      size={null}
+                      spin={false}
+                      symbol={false}
+                      title=""
+                      transform={null}
+                    />,
+                    "onClick": undefined,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "function",
+                    "props": Object {
+                      "border": false,
+                      "className": "",
+                      "fixedWidth": false,
+                      "flip": null,
+                      "icon": "pen",
+                      "inverse": false,
+                      "listItem": false,
+                      "mask": null,
+                      "pull": null,
+                      "pulse": false,
+                      "rotation": null,
+                      "size": null,
+                      "spin": false,
+                      "symbol": false,
+                      "title": "",
+                      "transform": null,
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  "type": Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "sc-bZQynM",
+                      "isStatic": true,
+                      "rules": Array [
+                        "
+  padding: 0px 12px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin-left: 6px;
+  font-size: 18px;
+  padding: 5px 8px;
+  cursor: pointer;
+  color: #888888;
+  transition: all 0.1s ease-in-out;
+  transform: scale(0.98);
+  &:hover {
+    box-shadow: 1px 1px 2px 3px #ffffff;
+    transform: scale(1);
+  }
+",
+                      ],
+                    },
+                    "displayName": "Styled(styled.button)",
+                    "foldedComponentIds": Array [
+                      "sc-EHOje",
+                    ],
+                    "render": [Function],
+                    "styledComponentId": "sc-bZQynM",
+                    "target": "button",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  },
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "children": <FontAwesomeIcon
+                      border={false}
+                      className=""
+                      fixedWidth={false}
+                      flip={null}
+                      icon="trash"
+                      inverse={false}
+                      listItem={false}
+                      mask={null}
+                      pull={null}
+                      pulse={false}
+                      rotation={null}
+                      size={null}
+                      spin={false}
+                      symbol={false}
+                      title=""
+                      transform={null}
+                    />,
+                    "onClick": undefined,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "function",
+                    "props": Object {
+                      "border": false,
+                      "className": "",
+                      "fixedWidth": false,
+                      "flip": null,
+                      "icon": "trash",
+                      "inverse": false,
+                      "listItem": false,
+                      "mask": null,
+                      "pull": null,
+                      "pulse": false,
+                      "rotation": null,
+                      "size": null,
+                      "spin": false,
+                      "symbol": false,
+                      "title": "",
+                      "transform": null,
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  "type": Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "sc-bZQynM",
+                      "isStatic": true,
+                      "rules": Array [
+                        "
+  padding: 0px 12px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin-left: 6px;
+  font-size: 18px;
+  padding: 5px 8px;
+  cursor: pointer;
+  color: #888888;
+  transition: all 0.1s ease-in-out;
+  transform: scale(0.98);
+  &:hover {
+    box-shadow: 1px 1px 2px 3px #ffffff;
+    transform: scale(1);
+  }
+",
+                      ],
+                    },
+                    "displayName": "Styled(styled.button)",
+                    "foldedComponentIds": Array [
+                      "sc-EHOje",
+                    ],
+                    "render": [Function],
+                    "styledComponentId": "sc-bZQynM",
+                    "target": "button",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  },
+                },
+              ],
+              "type": "span",
+            },
+          ],
+          "type": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-ifAKCX",
+              "isStatic": true,
+              "rules": Array [
+                "
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+",
+                "
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 12px;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 12px;
+  button {
+    visibility: hidden;
+  }
+  &:hover {
+    button {
+      visibility: visible;
+    }
+  }
+",
+              ],
+            },
+            "displayName": "Styled(styled.h2)",
+            "foldedComponentIds": Array [
+              "sc-bxivhb",
+            ],
+            "render": [Function],
+            "styledComponentId": "sc-ifAKCX",
+            "target": "h2",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          },
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": true,
+              "rules": Array [
+                "
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+",
+                "
+  padding: 4px 12px;
+  margin: 0;
+  padding-top: 0;
+  overflow-y: scroll;
+  font-size: 15px;
+  font-weight: 500;
+  max-width: calc(100% - 15px);
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  height: 84px;
+  line-height: 26px;
+  color: #888888;
+",
+              ],
+            },
+            "displayName": "Styled(styled.p)",
+            "foldedComponentIds": Array [
+              "sc-bdVaJa",
+            ],
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "p",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          },
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-htoDjs",
+              "isStatic": true,
+              "rules": Array [
+                "
+  color: #00bafa;
+  text-align: left;
+  width: 100%;
+",
+                "
+  padding: 11px 12px;
+  box-sizing: border-box;
+  font-weight: 400;
+  font-size: 13px;
+  border-top: 1px solid #ffffff;
+  box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.1);
+  color: #888888;
+",
+              ],
+            },
+            "displayName": "Styled(styled.footer)",
+            "foldedComponentIds": Array [
+              "sc-gzVnrw",
+            ],
+            "render": [Function],
+            "styledComponentId": "sc-htoDjs",
+            "target": "footer",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          },
+        },
+      ],
+      "type": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "Body": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bwzfXH",
+            "isStatic": true,
+            "rules": Array [
+              "
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+",
+              "
+  padding: 4px 12px;
+  margin: 0;
+  padding-top: 0;
+  overflow-y: scroll;
+  font-size: 15px;
+  font-weight: 500;
+  max-width: calc(100% - 15px);
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  height: 84px;
+  line-height: 26px;
+  color: #888888;
+",
+            ],
+          },
+          "displayName": "Styled(styled.p)",
+          "foldedComponentIds": Array [
+            "sc-bdVaJa",
+          ],
+          "render": [Function],
+          "styledComponentId": "sc-bwzfXH",
+          "target": "p",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        },
+        "Button": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bZQynM",
+            "isStatic": true,
+            "rules": Array [
+              "
+  padding: 0px 12px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin-left: 6px;
+  font-size: 18px;
+  padding: 5px 8px;
+  cursor: pointer;
+  color: #888888;
+  transition: all 0.1s ease-in-out;
+  transform: scale(0.98);
+  &:hover {
+    box-shadow: 1px 1px 2px 3px #ffffff;
+    transform: scale(1);
+  }
+",
+            ],
+          },
+          "displayName": "Styled(styled.button)",
+          "foldedComponentIds": Array [
+            "sc-EHOje",
+          ],
+          "render": [Function],
+          "styledComponentId": "sc-bZQynM",
+          "target": "button",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        },
+        "Footer": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htoDjs",
+            "isStatic": true,
+            "rules": Array [
+              "
+  color: #00bafa;
+  text-align: left;
+  width: 100%;
+",
+              "
+  padding: 11px 12px;
+  box-sizing: border-box;
+  font-weight: 400;
+  font-size: 13px;
+  border-top: 1px solid #ffffff;
+  box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.1);
+  color: #888888;
+",
+            ],
+          },
+          "displayName": "Styled(styled.footer)",
+          "foldedComponentIds": Array [
+            "sc-gzVnrw",
+          ],
+          "render": [Function],
+          "styledComponentId": "sc-htoDjs",
+          "target": "footer",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        },
+        "Header": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-ifAKCX",
+            "isStatic": true,
+            "rules": Array [
+              "
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+",
+              "
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 12px;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 12px;
+  button {
+    visibility: hidden;
+  }
+  &:hover {
+    button {
+      visibility: visible;
+    }
+  }
+",
+            ],
+          },
+          "displayName": "Styled(styled.h2)",
+          "foldedComponentIds": Array [
+            "sc-bxivhb",
+          ],
+          "render": [Function],
+          "styledComponentId": "sc-ifAKCX",
+          "target": "h2",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        },
+        "Title": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-htpNat",
+            "isStatic": false,
+            "rules": Array [
+              "
+  color: ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "displayName": "styled.span",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "sc-htpNat",
+          "target": "span",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        },
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-iwsKbI",
+          "isStatic": false,
+          "rules": Array [
+            "
+  width: 100%;
+  max-width: 1270px;
+  padding: 20px 0;
+  background-color: white;
+",
+            "
+  border-left: 8px solid ",
+            [Function],
+            ";
+  overflow: hidden;
+  max-width: 399px;
+  height: 180px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 8px 0.2px #d7d7e0;
+  border-radius: 4px;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  animation: ",
+            Keyframes {
+              "id": "sc-keyframes-dWMqQT",
+              "inject": [Function],
+              "name": "dWMqQT",
+              "rules": Array [
+                "@-webkit-keyframes dWMqQT{from{opacity:0;}to{opacity:1;}}",
+                "@keyframes dWMqQT{from{opacity:0;}to{opacity:1;}}",
+              ],
+              "toString": [Function],
+            },
+            " 0.2s linear;
+",
+          ],
+        },
+        "displayName": "Styled(styled.article)",
+        "foldedComponentIds": Array [
+          "sc-dnqmqq",
+        ],
+        "render": [Function],
+        "styledComponentId": "sc-iwsKbI",
+        "target": "article",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
